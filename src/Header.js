@@ -1,9 +1,11 @@
-import React from 'react'
+import React from "react";
 
 function Header() {
   return (
-    <div>Header</div>
-  )
+    <div className="header">
+      Bunk<span className="yelhub">Hub</span>
+    </div>
+  );
 }
 
-export default Header
+export default Header;
