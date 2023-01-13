@@ -9,23 +9,24 @@
   flex-direction: column;
   text-align: center;
   background-color: black;
+  height: 900px;
 }
 
 .header {
   display: flex;
-  
+
   justify-content: center;
   padding: 10px;
   margin-top: 20px;
 }
 
-.title{
+.title {
   color: white;
   font-weight: bold;
   font-size: 40px;
 }
 
-.discription{
+.discription {
   font-size: 20px;
   font-weight: 100;
 }
@@ -58,4 +59,12 @@
   background-color: #fff;
   border-radius: 10px;
   cursor: pointer;
+}
+
+.display {
+  color: #fff;
+  margin-top: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
