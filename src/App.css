@@ -14,7 +14,6 @@
 
 .header {
   display: flex;
-
   justify-content: center;
   padding: 10px;
   margin-top: 20px;
@@ -27,7 +26,7 @@
 }
 
 .discription {
-  font-size: 20px;
+  font-size: 15px;
   font-weight: 100;
 }
 
@@ -61,10 +60,24 @@
   cursor: pointer;
 }
 
+.time:hover{
+  background-color: rgb(255, 140, 0);
+  transition: 1s;
+}
+
 .display {
-  color: #fff;
   margin-top: 10px;
   display: flex;
+  flex-direction: column;
   align-items: center;
   justify-content: center;
+}
+
+.romsdel{
+  display: flex;
+}
+
+.romsdel h4{
+  margin: 10px;
+  color: rgb(255, 140, 0);
 }
