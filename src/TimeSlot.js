@@ -4,7 +4,7 @@ const appi = './time.json'
 
 const getTime=async()=>{
   const response = await fetch(appi);
-  console.log(response.json());
+  console.log(response);
 }
 
 function TimeSlot() {
