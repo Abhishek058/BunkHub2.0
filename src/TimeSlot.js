@@ -1,9 +1,16 @@
 import React from "react";
 
+const appi = './time.json'
+
+const getTime=async()=>{
+  const response = await fetch(appi);
+  console.log(response.json());
+}
+
 function TimeSlot() {
   const rooms = [21, 33, 42, 57, 54];
   const time1 = () => {
-    console.log("btn click");
+    getTime();
   };
   return (
     <div className="timeSlot">
