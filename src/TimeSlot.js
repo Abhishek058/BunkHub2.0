@@ -34,7 +34,9 @@ function TimeSlot() {
         ))}
       </div>
       <div className="title"> Available Rooms</div>
-      <div className="romsdel">data</div>
+      <div className="romsdel">
+        <h4>data</h4>
+      </div>
     </div>
   );
 }
