@@ -1,4 +1,44 @@
 {
-    "name": "Abhishek",
-    "avlRoom": [21, 34, 56]
+  "data": [
+    {
+      "lecture": "1",
+      "avlRooms": ["Room A", "Room B"]
+    },
+    {
+      "lecture": "2",
+      "avlRooms": ["Room C", "Room D"]
+    },
+    {
+      "lecture": "3",
+      "avlRooms": ["Room E", "Room F"]
+    },
+    {
+      "lecture": "4",
+      "avlRooms": ["Room G", "Room H"]
+    },
+    {
+      "lecture": "5",
+      "avlRooms": ["Room I", "Room J"]
+    },
+    {
+      "lecture": "6",
+      "avlRooms": ["Room K", "Room L"]
+    },
+    {
+      "lecture": "7",
+      "avlRooms": ["Room M", "Room N"]
+    },
+    {
+      "lecture": "8",
+      "avlRooms": ["Room O", "Room P"]
+    },
+    {
+      "lecture": "9",
+      "avlRooms": ["Room Q", "Room R"]
+    },
+    {
+      "lecture": "10",
+      "avlRooms": ["Room S", "Room T"]
+    }
+  ]
 }
