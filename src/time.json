@@ -2,43 +2,43 @@
   "data": [
     {
       "lecture": "1",
-      "avlRooms": ["RoomA", "RoomB"]
+      "avlRooms": "RoomA, RoomB"
     },
     {
       "lecture": "2",
-      "avlRooms": ["RoomC", "RoomD"]
+      "avlRooms": "RoomC, RoomD"
     },
     {
       "lecture": "3",
-      "avlRooms": ["RoomE", "RoomF"]
+      "avlRooms": "RoomE, RoomF"
     },
     {
       "lecture": "4",
-      "avlRooms": ["RoomG", "RoomH"]
+      "avlRooms": "RoomG, RoomH"
     },
     {
       "lecture": "5",
-      "avlRooms": ["RoomI, ", "RoomJ"]
+      "avlRooms": "RoomI, RoomJ"
     },
     {
       "lecture": "6",
-      "avlRooms": ["RoomK, ", "RoomL"]
+      "avlRooms": "RoomK, RoomL"
     },
     {
       "lecture": "7",
-      "avlRooms": ["RoomM", "RoomN"]
+      "avlRooms": "RoomM, RoomN"
     },
     {
       "lecture": "8",
-      "avlRooms": ["RoomO", "RoomP"]
+      "avlRooms": "RoomO, RoomP"
     },
     {
       "lecture": "9",
-      "avlRooms": ["RoomQ", "RoomR"]
+      "avlRooms": "RoomQ, RoomR"
     },
     {
       "lecture": "10",
-      "avlRooms": ["RoomS", "RoomT"]
+      "avlRooms": "RoomS, RoomT"
     }
   ]
 }
