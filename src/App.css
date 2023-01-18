@@ -61,16 +61,16 @@
   cursor: pointer;
 }
 
-.time:hover{
+.time:hover {
   background-color: rgb(255, 140, 0);
   transition: 0.4s;
 }
 
-.romsdel{
+.romsdel {
   display: flex;
 }
 
-.romsdel h4{
+.romsdel h4 {
   margin: 10px;
   color: rgb(255, 140, 0);
 }
