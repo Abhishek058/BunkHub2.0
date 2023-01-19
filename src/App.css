@@ -9,7 +9,7 @@
   flex-direction: column;
   text-align: center;
   background-color: black;
-  height: 780px;
+  height: max-conteNT;
 }
 
 .header {
@@ -81,18 +81,21 @@
   color: rgb(255, 140, 0);
 }
 
-.download{
+.download {
   display: flex;
   flex-direction: column;
 }
 
-.download a{
+.download a {
   color: #fff;
   text-decoration: none;
   margin: 10px;
 }
 
-@media (max-width: 450px){
+@media (max-width: 450px) {
+  .App {
+    height: 780px;
+  }
   .time {
     margin: 10px;
     padding: 15px;
@@ -105,8 +108,7 @@
   }
 }
 
-
-@media (max-width: 300px){
+@media (max-width: 300px) {
   .time {
     margin: 7px;
     padding: 10px;
