@@ -9,7 +9,7 @@
   flex-direction: column;
   text-align: center;
   background-color: black;
-  height: 900px;
+  height: 780px;
 }
 
 .header {
@@ -79,6 +79,17 @@
 .romsdel h3 {
   margin: 20px;
   color: rgb(255, 140, 0);
+}
+
+.download{
+  display: flex;
+  flex-direction: column;
+}
+
+.download a{
+  color: #fff;
+  text-decoration: none;
+  margin: 10px;
 }
 
 @media (max-width: 450px){
